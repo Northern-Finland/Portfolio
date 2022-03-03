@@ -4,6 +4,7 @@ body {
 	margin: 0 auto;
 }
 .homePage {
+	 font: 100%/1.4 Verdana;
 	background: #505E75;
 }
 .container {
